@@ -45,13 +45,12 @@ namespace OpenerApplication
 
 			int minIdx = 0;
 			int maxIdx = keys.Count - 1;
-			Size def = new Size(100, 150);
 			Dictionary<int, bool> selected = new Dictionary<int,bool>();
 			foreach (System.Windows.Forms.PictureBox picture in hand)
 			{
-				picture.Height = 150;
-				picture.Width = 100;
-				picture.SizeMode = PictureBoxSizeMode.StretchImage;
+				picture.Size = new Size(100, 150); // width, height.
+				picture.SizeMode = PictureBoxSizeMode.CenterImage;
+				picture.BorderStyle = BorderStyle.Fixed3D;
 
 				int randomSelection;
 				bool findingCard = true;

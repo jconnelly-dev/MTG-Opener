@@ -60,7 +60,7 @@
 			this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 78.24176F));
 			this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 103F));
 			this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 94F));
-			this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 89F));
+			this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 90F));
 			this.tableLayoutPanel1.Controls.Add(this.button1, 4, 0);
 			this.tableLayoutPanel1.Controls.Add(this.button2, 3, 0);
 			this.tableLayoutPanel1.Controls.Add(this.button4, 0, 0);
@@ -68,13 +68,13 @@
 			this.tableLayoutPanel1.Location = new System.Drawing.Point(20, 12);
 			this.tableLayoutPanel1.Name = "tableLayoutPanel1";
 			this.tableLayoutPanel1.RowCount = 1;
-			this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20F));
+			this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 42F));
 			this.tableLayoutPanel1.Size = new System.Drawing.Size(785, 42);
 			this.tableLayoutPanel1.TabIndex = 2;
 			// 
 			// button1
 			// 
-			this.button1.Location = new System.Drawing.Point(698, 3);
+			this.button1.Location = new System.Drawing.Point(697, 3);
 			this.button1.Name = "button1";
 			this.button1.Size = new System.Drawing.Size(71, 33);
 			this.button1.TabIndex = 0;
@@ -85,7 +85,7 @@
 			// button2
 			// 
 			this.button2.ForeColor = System.Drawing.SystemColors.ControlText;
-			this.button2.Location = new System.Drawing.Point(604, 3);
+			this.button2.Location = new System.Drawing.Point(603, 3);
 			this.button2.Name = "button2";
 			this.button2.Size = new System.Drawing.Size(73, 33);
 			this.button2.TabIndex = 1;
@@ -105,7 +105,7 @@
 			// 
 			// button3
 			// 
-			this.button3.Location = new System.Drawing.Point(501, 3);
+			this.button3.Location = new System.Drawing.Point(500, 3);
 			this.button3.Name = "button3";
 			this.button3.Size = new System.Drawing.Size(75, 33);
 			this.button3.TabIndex = 2;
@@ -133,13 +133,13 @@
 			this.openingHand.Images.SetKeyName(13, "Neoform.png");
 			this.openingHand.Images.SetKeyName(14, "Nourishing Shoal.png");
 			this.openingHand.Images.SetKeyName(15, "Noxious Revival.png");
-			this.openingHand.Images.SetKeyName(16, "Pact of Negation.png");
-			this.openingHand.Images.SetKeyName(17, "Safewright Quest.png");
-			this.openingHand.Images.SetKeyName(18, "Serum Visions.png");
+			this.openingHand.Images.SetKeyName(16, "Wild Cantor.png");
+			this.openingHand.Images.SetKeyName(17, "Waterlogged Grove.png");
+			this.openingHand.Images.SetKeyName(18, "Summoner\'s Pact.png");
 			this.openingHand.Images.SetKeyName(19, "Simian Spirit Guide.png");
-			this.openingHand.Images.SetKeyName(20, "Summoner\'s Pact.png");
-			this.openingHand.Images.SetKeyName(21, "Waterlogged Grove.png");
-			this.openingHand.Images.SetKeyName(22, "Wild Cantor.png");
+			this.openingHand.Images.SetKeyName(20, "Serum Visions.png");
+			this.openingHand.Images.SetKeyName(21, "Safewright Quest.png");
+			this.openingHand.Images.SetKeyName(22, "Pact of Negation.png");
 			// 
 			// pictureBox1
 			// 
