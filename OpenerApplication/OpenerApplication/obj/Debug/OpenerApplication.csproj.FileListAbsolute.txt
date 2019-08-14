@@ -10,3 +10,9 @@ c:\users\jconnelly\documents\visual studio 2013\Projects\OpenerApplication\Opene
 C:\JOEY_TomatoSoup\jconnelly-dev\mtg-opener\OpenerApplication\OpenerApplication\bin\Debug\OpenerApplication.exe.config
 C:\JOEY_TomatoSoup\jconnelly-dev\mtg-opener\OpenerApplication\OpenerApplication\obj\Debug\OpenerApplication.exe
 C:\JOEY_TomatoSoup\jconnelly-dev\mtg-opener\OpenerApplication\OpenerApplication\obj\Debug\OpenerApplication.pdb
+C:\JOEY_TomatoSoup\jconnelly-dev\mtg-opener\OpenerApplication\OpenerApplication\bin\Debug\OpenerApplication.exe
+C:\JOEY_TomatoSoup\jconnelly-dev\mtg-opener\OpenerApplication\OpenerApplication\bin\Debug\OpenerApplication.pdb
+C:\JOEY_TomatoSoup\jconnelly-dev\mtg-opener\OpenerApplication\OpenerApplication\obj\Debug\OpenerApplication.csprojResolveAssemblyReference.cache
+C:\JOEY_TomatoSoup\jconnelly-dev\mtg-opener\OpenerApplication\OpenerApplication\obj\Debug\OpenerApplication.MTG_Opener.resources
+C:\JOEY_TomatoSoup\jconnelly-dev\mtg-opener\OpenerApplication\OpenerApplication\obj\Debug\OpenerApplication.Properties.Resources.resources
+C:\JOEY_TomatoSoup\jconnelly-dev\mtg-opener\OpenerApplication\OpenerApplication\obj\Debug\OpenerApplication.csproj.GenerateResource.Cache
